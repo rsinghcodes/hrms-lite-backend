@@ -57,9 +57,9 @@ WSGI_APPLICATION = 'hrms.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'hrms_db',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
+        'NAME': 'hrms_db_0w2t',
+        'USER': 'hrms_postgres',
+        'PASSWORD': 'WrYgOyo07BXvqPsoZcMniWA27DuwrUTc',
         'HOST': 'localhost',
         'PORT': '5432',
     }
