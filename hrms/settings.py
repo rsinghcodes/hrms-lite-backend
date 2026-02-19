@@ -60,7 +60,7 @@ DATABASES = {
         'NAME': 'hrms_db_0w2t',
         'USER': 'hrms_postgres',
         'PASSWORD': 'WrYgOyo07BXvqPsoZcMniWA27DuwrUTc',
-        'HOST': 'localhost',
+        'HOST': 'dpg-d6bmsscr85hc73e2tedg-a',
         'PORT': '5432',
     }
 }
